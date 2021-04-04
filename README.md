@@ -1,4 +1,4 @@
 # rgb-game
-A simple browser game I did in Colt Steele's Web Dev course, to practice basic JS. 
+Simple JS browser game. (course by Colt Steele).
 
 Hosted in my own dropbox using [droppages](https://droppages.com/)!
