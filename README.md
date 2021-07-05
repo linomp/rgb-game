@@ -1,4 +1,4 @@
 # rgb-game
-Simple JS browser game. (course by Colt Steele).
+Simple but fun JS browser game. (course by Colt Steele).
 
-Hosted in my own dropbox using [droppages](https://droppages.com/)!
+Check out the [live version](https://linomp.github.io/rgb-game/)!
